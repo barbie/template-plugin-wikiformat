@@ -1,4 +1,7 @@
-Revision history for Perl module Template::Plugin::WikiFormat
+Revision history for Template-Plugin-WikiFormat
+===============================================
+
+        - fixed distribution name in META.
 
 0.05    2013-01-20
         - change file dates changed to meet W3CDTF standards.
