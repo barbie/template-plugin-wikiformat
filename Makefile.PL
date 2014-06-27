@@ -16,12 +16,12 @@ WriteMakefile(
 
         # prereqs
         'Template'	                => '2',
-        'Template::Plugin::Filter'  => '0',
+        'Template::Plugin::Filter'  => '2',
         'Text::WikiFormat'          => '0.75',
 
         # build/test prereqs
         'IO::File'                  => '0',
-        'Template::Test'            => '0',
+        'Template::Test'            => '2',
         'Test::More'                => '0.70'
 
     }
