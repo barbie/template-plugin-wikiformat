@@ -1,6 +1,6 @@
 {
     "name": "Template-Plugin-WikiFormat",
-    "version": "0.05",
+    "version": "0.06",
     "abstract": "TT wrapper for Text::WikiFormat",
     "author": ["Barbie <barbie@cpan.org>"],
 
@@ -44,7 +44,7 @@
     "provides": {
         "Template::Plugin::WikiFormat": {
             "file": "lib/Template/Plugin/WikiFormat.pm",
-            "version": "0.05"
+            "version": "0.06"
         }
     },
     "no_index": {
