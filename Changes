@@ -2,6 +2,7 @@ Revision history for Template-Plugin-WikiFormat
 ===============================================
 
         - fixed license fields in META.json to be lists.
+        - extended META test suite.
 
 0.06    2014-06-30
         - fixed distribution name in META.
